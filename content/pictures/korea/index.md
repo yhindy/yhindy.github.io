@@ -10,9 +10,12 @@ cover:
     relative: false
 ---
 
+![vans](lobster.jpeg)
 ![vans](bar.jpeg)
 ![vans](makgeolli.jpeg)
+![vans](north-korea.jpeg)
 ![vans](vans.jpeg)
+![vans](fish.jpeg)
 
 ---
 
