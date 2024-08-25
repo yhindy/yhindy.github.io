@@ -14,9 +14,6 @@
     <loc>http://localhost:1313/tags/korea/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pictures/brazil/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pictures/korea/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -28,6 +25,12 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brazil/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pictures/brazil/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/data/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
