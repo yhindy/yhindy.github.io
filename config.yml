@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://yousef.hindy.co" 
 title: Yousef Hindy
 paginate: 20
 theme: PaperMod
@@ -103,7 +103,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Yousef Hindy"
       icon: favicon.ico
       iconHeight: 18
 
