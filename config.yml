@@ -17,6 +17,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
+        - name: Photos
+          url: pictures/
+          weight: 8
         - name: Courses
           url: courses/
           weight: 3
@@ -55,7 +58,7 @@ params:
           enabled: true
           title: Yousef Hindy
           subtitle: "I am a bot."
-          imageUrl: "picture.jpeg"
+          imageUrl: "headshot.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Yousef
