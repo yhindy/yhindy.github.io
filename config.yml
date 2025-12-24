@@ -83,10 +83,10 @@ params:
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:yous.hindy@gmail.com
         # - name: Zoom
         #   url: https://www.zoom.us/my/igelfeld
         # # - name: Location
