@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photos on Yousef Hindy</title>
-    <link>https://yousef.hindy.co/pictures/</link>
+    <link>http://localhost:1313/pictures/</link>
     <description>Recent content in Photos on Yousef Hindy</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yousef.hindy.co/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pictures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Korea</title>
-      <link>https://yousef.hindy.co/pictures/korea/</link>
+      <link>http://localhost:1313/pictures/korea/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://yousef.hindy.co/pictures/korea/</guid>
+      <guid>http://localhost:1313/pictures/korea/</guid>
       <description> </description>
     </item>
     <item>
       <title>Brazil</title>
-      <link>https://yousef.hindy.co/pictures/brazil/</link>
+      <link>http://localhost:1313/pictures/brazil/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://yousef.hindy.co/pictures/brazil/</guid>
+      <guid>http://localhost:1313/pictures/brazil/</guid>
       <description> </description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
-      <link>https://yousef.hindy.co/pictures/japan/</link>
+      <link>http://localhost:1313/pictures/japan/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://yousef.hindy.co/pictures/japan/</guid>
+      <guid>http://localhost:1313/pictures/japan/</guid>
       <description>This book discusses Portugese irregular verbs in great details.</description>
     </item>
   </channel>
