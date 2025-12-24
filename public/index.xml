@@ -1,1 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Yousef Hindy</title><link>https://yousef.hindy.co/</link><description>Recent content on Yousef Hindy</description><generator>Hugo -- 0.133.0</generator><language>en</language><lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yousef.hindy.co/index.xml" rel="self" type="application/rss+xml"/><item><title>Location</title><link>https://yousef.hindy.co/location/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/location/</guid><description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description></item><item><title>Office Hours</title><link>https://yousef.hindy.co/officehours/</link><pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/officehours/</guid><description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description></item><item><title>Korea</title><link>https://yousef.hindy.co/pictures/korea/</link><pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/pictures/korea/</guid><description/></item><item><title>Brazil</title><link>https://yousef.hindy.co/pictures/brazil/</link><pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/pictures/brazil/</guid><description/></item><item><title>List of Irregular Verbs Across Romance Languages</title><link>https://yousef.hindy.co/data/data1/</link><pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/data/data1/</guid><description>This dataset contains all irregular verbs in known Romance languages.</description></item><item><title>Proof of consent</title><link>https://yousef.hindy.co/papers/consent/</link><pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/papers/consent/</guid><description>Proof of consent for my texting app.</description></item><item><title>Unusual Uses For Olive Oil</title><link>https://yousef.hindy.co/papers/paper1/</link><pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/papers/paper1/</guid><description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description></item><item><title>The Finer Points of Sausage Dogs</title><link>https://yousef.hindy.co/papers/paper2/</link><pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/papers/paper2/</guid><description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description></item><item><title>Lectures at the Villa of Reduced Circumstances</title><link>https://yousef.hindy.co/courses/course1/</link><pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/courses/course1/</guid><description>This graduate course presents classical results in Romance philology.</description></item><item><title>Portugese Irregular Verbs</title><link>https://yousef.hindy.co/books/book1/</link><pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/books/book1/</guid><description>This book discusses Portugese irregular verbs in great details.</description></item><item><title>Portugese Irregular Verbs</title><link>https://yousef.hindy.co/pictures/japan/</link><pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/pictures/japan/</guid><description>This book discusses Portugese irregular verbs in great details.</description></item><item><title>Profanity in Early Irish</title><link>https://yousef.hindy.co/courses/course2/</link><pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/courses/course2/</guid><description>This undergraduate course discusses profanity in Early Irish.</description></item><item><title/><link>https://yousef.hindy.co/youtube/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yousef.hindy.co/youtube/</guid><description>These are some youtube videos I like: Focus music</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yousef Hindy</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yousef Hindy</description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>Korea</title>
+      <link>http://localhost:1313/pictures/korea/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pictures/korea/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Brazil</title>
+      <link>http://localhost:1313/pictures/brazil/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pictures/brazil/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>Proof of consent</title>
+      <link>http://localhost:1313/papers/consent/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/consent/</guid>
+      <description>Proof of consent for my texting app.</description>
+    </item>
+    <item>
+      <title>Unusual Uses For Olive Oil</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+    </item>
+    <item>
+      <title>The Finer Points of Sausage Dogs</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
+    </item>
+    <item>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/pictures/japan/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pictures/japan/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
+    <item>
+      <title>Profanity in Early Irish</title>
+      <link>http://localhost:1313/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/youtube/</guid>
+      <description>These are some youtube videos I like: Focus music </description>
+    </item>
+  </channel>
+</rss>
